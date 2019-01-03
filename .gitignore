@@ -1,0 +1,132 @@
+/package-lock.json
+/package.json
+\.DS_Store
+*.lnk
+
+*Web.config
+*app.config
+
+WebAPI/\.vs/
+/WebAPI*
+
+### Intellij ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff
+Design_Patterns_ds/.idea/**/workspace.xml
+Design_Patterns_ds/.idea/**/tasks.xml
+Design_Patterns_ds/.idea/**/usage.statistics.xml
+Design_Patterns_ds/.idea/**/dictionaries
+Design_Patterns_ds/.idea/**/shelf
+
+# Generated files
+Design_Patterns_ds/.idea/**/contentModel.xml
+
+# Sensitive or high-churn files
+Design_Patterns_ds/.idea/**/dataSources/
+Design_Patterns_ds/.idea/**/dataSources.ids
+Design_Patterns_ds/.idea/**/dataSources.local.xml
+Design_Patterns_ds/.idea/**/sqlDataSources.xml
+Design_Patterns_ds/.idea/**/dynamic.xml
+Design_Patterns_ds/.idea/**/uiDesigner.xml
+Design_Patterns_ds/.idea/**/dbnavigator.xml
+
+# Gradle
+Design_Patterns_ds/.idea/**/gradle.xml
+Design_Patterns_ds/.idea/**/libraries
+
+# Gradle and Maven with auto-import
+# When using Gradle or Maven with auto-import, you should exclude module files,
+# since they will be recreated, and may cause churn.  Uncomment if using
+# auto-import.
+# .idea/modules.xml
+# .idea/*.iml
+# .idea/modules
+
+# CMake
+Design_Patterns_ds/cmake-build-*/
+
+# Mongo Explorer plugin
+Design_Patterns_ds/.idea/**/mongoSettings.xml
+
+# File-based project format
+Design_Patterns_ds/*.iws
+
+# IntelliJ
+Design_Patterns_ds/out/
+
+# mpeltonen/sbt-idea plugin
+Design_Patterns_ds/.idea_modules/
+
+# JIRA plugin
+Design_Patterns_ds/atlassian-ide-plugin.xml
+
+# Cursive Clojure plugin
+Design_Patterns_ds/.idea/replstate.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+Design_Patterns_ds/com_crashlytics_export_strings.xml
+Design_Patterns_ds/crashlytics.properties
+Design_Patterns_ds/crashlytics-build.properties
+Design_Patterns_ds/fabric.properties
+
+# Editor-based Rest Client
+Design_Patterns_ds/.idea/httpRequests
+
+# Android studio 3.1+ serialized cache file
+Design_Patterns_ds/.idea/caches/build_file_checksums.ser
+
+### Intellij Patch ###
+# Comment Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
+
+# *.iml
+# modules.xml
+# .idea/misc.xml
+# *.ipr
+
+# Sonarlint plugin
+Design_Patterns_ds/.idea/sonarlint
+
+### Java ###
+# Compiled class file
+Design_Patterns_ds/*.class
+
+# Log file
+Design_Patterns_ds/*.log
+
+# BlueJ files
+Design_Patterns_ds/*.ctxt
+
+# Mobile Tools for Java (J2ME)
+Design_Patterns_ds/.mtj.tmp/
+
+# Package Files #
+Design_Patterns_ds/*.jar
+Design_Patterns_ds/*.war
+Design_Patterns_ds/*.nar
+Design_Patterns_ds/*.ear
+Design_Patterns_ds/*.zip
+Design_Patterns_ds/*.tar.gz
+Design_Patterns_ds/*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+Design_Patterns_ds/hs_err_pid*
+
+#iml
+Design_Patterns_ds/Design_Patterns_ds.iml
+
+.idea/
+glassfish5/
+out/
+
+Design_Patterns_ds/\.idea/google-java-format\.xml
+
+Design_Patterns_ds/Design_Patterns_ds.iml
+
+*.iml
+
+*.xml
+
+/**/target/
+!pom.xml
